@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "FileOps_AsyncAwait.js",
+  "scripts": {
+    "start": "node DateTime",
+    "dev": "nodemon DateTime"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
